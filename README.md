@@ -1,6 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsgarcia0203&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsgarcia0203&theme=github_dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsgarcia0203&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rsgarcia0203/rsgarcia0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

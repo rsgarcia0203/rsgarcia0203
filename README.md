@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="./assets/gh_rd_profile.PNG" /></a></p>
+<p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="./assets/gh_profile_logo.png" /></a></p>
 
 ### Hola a todos 👋
 ### Mi nombre es Ronny García Zambrano

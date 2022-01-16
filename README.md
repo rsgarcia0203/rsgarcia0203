@@ -1,9 +1,15 @@
 <p align="center"><a href="https://rsgarcia0203.github.io"><img width="40%" src="./assets/gh_profile_logo.png" /></a></p>
 
 ### Hola a todos 👋
-### Mi nombre es Ronny García Zambrano
-### Tengo 22 años
-### Actualmente estoy cursando el 4to semestre de la carrera de Ingeniería en Ciencias Computacionales en la ESPOL
+
+<br/>
+
+<p align="justify"> Mi nombre es Ronny García Zambrano </p>
+<p align="justify"> Tengo 22 años </p>
+<p align="justify"> Actualmente estoy cursando el 4to semestre de la carrera de Ingeniería en Ciencias Computacionales en la ESPOL </p>
+
+<br/>
+
 
 ## **Algunas cosas sobre mi**
 
@@ -22,6 +28,8 @@
 - 📫 Como contactarme: rsgarcia@espol.edu.ec
 
 
+<br/>
+
 ## **Lenguajes y herramientas mas usadas:**  
 
 <p align="center">
@@ -32,9 +40,13 @@
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 </p>
 
+<br/>
+
 ## **Estadísticas de GitHub:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsgarcia0203&theme=github_dark&show_icons=true)
+
+<br/>
 
 ## **Top lenguajes:**
 
@@ -55,6 +67,6 @@
   <img align="right" alt="Ronny García | Youtube" width="20px" src="./assets/youtube.png" />
 </a>
 <a href="https://discord.gg/UgrfaY8u">
-  <img align="right" alt="Ronny García | Discord Server" width="20px" src="./assets/discord.png" />
+  <img align="right" alt="Ronny García | Discord Server" width="22px" src="./assets/discord.png" />
 </a>
 

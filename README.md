@@ -92,5 +92,5 @@ Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spe
 
 <p align="center">  
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=rsgarcia0203"> </a>
-<a href="https://github.com/rsgarcia?tab=followers"><img src="https://img.shields.io/github/followers/rsgarcia?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rsgarcia0203?tab=followers"><img src="https://img.shields.io/github/followers/rsgarcia?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>

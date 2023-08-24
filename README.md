@@ -15,7 +15,7 @@
 <p align="justify">
 Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spend my time on personal projects and learning more about back-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Java, Python, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
 
-- 💼 Back-end developer 
+- 💼 Full Stack developer 
 
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 
@@ -35,20 +35,44 @@ Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spe
 
 <br/>
 
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Node, PHP, C#, Go, Python, Java
+- ⚙️ React, Redux, Angular, Express, Nest.JS, Laravel, Symfony, Code Igniter, Xamarin, MAUI, .Net, Flask, Apollo, Graphql, Jwt
+- 👁️ HTML, CSS, Styled Componentes, Gsap, Framer Motion, MaterialUI, Bootstrap
+- 💽 MongoDB, MySQL, Sql Server, PostgreSQL, Neo4j
+- :busts_in_silhouette: Jenkins, Git, Github, GitLab, Docker
+- :recycle: Jest, PHP Unit
+
+</br>
 
 ## **🚀 Languages and Tools:**  
-
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://www.java.com/es/t" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png" style="width:48px; height:48px"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/13460/php.png" style="width:48px; height:48px"/> </a>
+    <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" style="width:48px; height:48px"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/512/typescript.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://dotnet.microsoft.com/es-es/languages/csharp#:~:text=C%23%20es%20un%20lenguaje%20de,lenguajes%20de%20programaci%C3%B3n%20de%20GitHub." target="_blank"> <img src="https://img.icons8.com/color/55251/c-sharp-logo.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/44442/golang.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/13441/python.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://www.java.com/es/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=13679&format=png" style="width:48px; height:48px"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/71257/angularjs.png" style="width:48px; height:48px"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>  
+    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/graphql.png" style="width:48px; height:48px;"/> </a>  
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/39292/jenkins.png" style="width:48px; height:48px;"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png"style="width:48px; height:48px"/> </a>
 </p>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 
 <br />
 

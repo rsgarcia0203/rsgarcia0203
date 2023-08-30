@@ -51,7 +51,8 @@ Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spe
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/13460/php.png" style="width:48px; height:48px"/> </a>
     <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/logo.png" style="width:48px; height:48px"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/512/typescript.png" style="width:48px; height:48px"/> </a> 
     <a href="https://dotnet.microsoft.com/es-es/languages/csharp#:~:text=C%23%20es%20un%20lenguaje%20de,lenguajes%20de%20programaci%C3%B3n%20de%20GitHub." target="_blank"> <img src="https://img.icons8.com/color/55251/c-sharp-logo.png" style="width:48px; height:48px"/> </a> 
     <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/44442/golang.png" style="width:48px; height:48px"/> </a> 
@@ -88,13 +89,11 @@ Hi, I am Ronny García. Current back-end developer freelance from Ecuador. I spe
 ## **📈 My GitHub stats:**
 
 <p align="center">
-  <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Ronny García's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsgarcia0203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Ronny García's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsgarcia0203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rsgarcia0203/github-readme-stats"><img alt="Ronny García's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rsgarcia0203&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rsgarcia0203/github-readme-stats"><img alt="Ronny García's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsgarcia0203&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   
-<br />
-
-<a href="https://github.com/D3press3dd/github-readme-activity-graph"><img alt="Ronny García's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsgarcia0203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--a href="https://github.com/D3press3dd/github-readme-activity-graph"><img alt="Ronny García's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsgarcia0203&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a-->
 
 <br />
 
